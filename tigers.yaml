@@ -1,8 +1,12 @@
 team: Tigers
 
+<<<<<<< HEAD
 mananger: Brenda
+=======
+mananger: Deborah
+>>>>>>> to-merge
 
-coach: Grace
+coach: Ruth
 
 members:
 - Linda
